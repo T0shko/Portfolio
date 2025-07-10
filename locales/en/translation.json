@@ -139,6 +139,11 @@
                 "title": "Bulk Email Sender",
                 "description": "Advanced email automation tool with adaptive batching, timing optimization to bypass rate limits, optimized SMTP with retries, error handling, and multi-account load balancing.",
                 "cta": "Email Tool"
+            },
+            "mobileverse": {
+                "title": "PGTKSpace",
+                "description": "Modern social media application built with React and TypeScript, featuring real-time updates, infinite scrolling, stories, and mobile-first design. Includes Supabase backend with real-time subscriptions and advanced features like optimistic UI updates.",
+                "cta": "Social Media App"
             }
         },
         "nigatedev": {

@@ -139,6 +139,11 @@
                 "title": "Expéditeur d'Emails en Masse",
                 "description": "Outil avancé d'automatisation d'email avec lots adaptatifs, optimisation du timing pour contourner les limites de débit, SMTP optimisé avec nouvelles tentatives, gestion d'erreurs et équilibrage de charge multi-comptes.",
                 "cta": "Outil Email"
+            },
+            "mobileverse": {
+                "title": "PGTKSpace",
+                "description": "Application moderne de réseaux sociaux construite avec React et TypeScript, avec des mises à jour en temps réel, défilement infini, stories et design mobile-first. Inclut un backend Supabase avec des abonnements en temps réel et des fonctionnalités avancées comme les mises à jour optimistes de l'UI.",
+                "cta": "App Réseaux Sociaux"
             }
         },
         "nigatedev": {

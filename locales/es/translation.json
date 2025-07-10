@@ -139,6 +139,11 @@
                 "title": "Enviador de Emails Masivo",
                 "description": "Herramienta avanzada de automatización de correo con lotes adaptativos, optimización de tiempo para evitar límites de velocidad, SMTP optimizado con reintentos, manejo de errores y balanceador de carga multi-cuenta.",
                 "cta": "Herramienta de Email"
+            },
+            "mobileverse": {
+                "title": "PGTKSpace",
+                "description": "Aplicación moderna de redes sociales construida con React y TypeScript, con actualizaciones en tiempo real, desplazamiento infinito, historias y diseño mobile-first. Incluye backend Supabase con suscripciones en tiempo real y características avanzadas como actualizaciones optimistas de UI.",
+                "cta": "App de Redes Sociales"
             }
         },
         "nigatedev": {

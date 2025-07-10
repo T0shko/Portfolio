@@ -69,6 +69,14 @@ const Projects: React.FC = () => {
       tech: ["Node.js", "JavaScript", "SMTP", "Automation", "Load Balancing"],
       link: "#",
       cta: t('project.list.emailsender.cta')
+    },
+    {
+      title: t('project.list.mobileverse.title'),
+      description: t('project.list.mobileverse.description'),
+      image: "/Portfolio/static/media/mobile-verse.png",
+      tech: ["React", "TypeScript", "Supabase", "Real-time", "Mobile-first"],
+      link: "#",
+      cta: t('project.list.mobileverse.cta')
     }
   ]
 
