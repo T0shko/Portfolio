@@ -1,25 +1,14 @@
-    {
-    "title": "Traducir al Español",
+{
     "profile": {
         "hello": "HOLA",
         "sayHello": "SOY TEODOR VASILEV",
-        "introduce1": "Freelancer 🌠",
-        "introduce2": "Desarrollador Full-Stack 💻",
-        "introduce3": "6+ años de experiencia 📆",
-        "introduce4": "Código abierto 💗",
-        "lang" : {
-            "fr": "Francés",
-            "en": "Inglés",
-            "es": "Español"
-        },
         "about": {
             "title": "Sobre Mí",
-            "description": "Estudiante desarrollador apasionado creando soluciones innovadoras",
-            "intro": "Soy Teodor Vasilev, un estudiante de secundaria altamente motivado apasionado por el desarrollo de software. Comencé a programar desde temprana edad y adquirí experiencia sustancial en backend, frontend y arquitectura de sistemas. Actualmente estudio Informática Económica en la Escuela Vocacional de Telecomunicaciones en Sofía, Bulgaria.",
+            "description": "Desarrollador estudiante apasionado creando soluciones innovadoras",
+            "intro": "Soy Teodor Vasilev – un estudiante de secundaria altamente motivado apasionado por el desarrollo de software. Comencé a programar temprano y adquirí experiencia sustancial en backend, frontend y arquitectura de sistemas. Actualmente estudio Informática Económica en la Escuela Secundaria Profesional de Telecomunicaciones en Sofía, Bulgaria.",
             "expertise": "Mi experiencia abarca múltiples lenguajes de programación incluyendo JavaScript, PHP, Lua, C# y Python. He desarrollado soluciones SaaS full-stack, herramientas de automatización, aplicaciones de seguridad y software de escritorio.",
-            "experience": "Tengo un historial comprobado con proyectos del mundo real incluyendo plataformas de marketplace, sistemas ERP, aplicaciones de voz a texto y escáneres de vulnerabilidades. También contribuí como escritor de contenido en Puls.bg, escribiendo más de 21 artículos médicos y siendo reconocido como el contribuidor más joven en su equipo."
+            "experience": "Tengo un historial comprobado con proyectos del mundo real incluyendo plataformas de marketplace, sistemas ERP, aplicaciones de transcripción de voz y escáneres de vulnerabilidades. También contribuí como escritor de contenido en Puls.bg, escribiendo más de 21 artículos médicos y siendo reconocido como el contribuyente más joven en su equipo."
         },
-        "cv": "CURRÍCULUM",
         "cvlink": "/assets/pdf/Profile.pdf",
         "status": {
             "available": "Disponible ✨",
@@ -27,8 +16,8 @@
             "skills": "Desarrollo full-stack | Automatización | Seguridad",
             "philosophy": "Resolución innovadora de problemas"
         },
-        "quote": "La complejidad no me asusta. Me afila.",
-        "connect": "Conecta conmigo:",
+        "quote": "La complejidad no me asusta. Me agudiza.",
+        "connect": "Conéctate conmigo:",
         "buttons": {
             "ai_opinion": "Opinión de IA sobre mí",
             "download_resume": "Ver Currículum",
@@ -37,20 +26,20 @@
         },
         "links": {
             "home": "Inicio",
-            "about": "Sobre Mí",
+            "about": "Acerca de",
             "skill": "Habilidades",
             "projects": "Proyectos",
             "work": "Trabajo",
             "contact": "Contáctame",
-            "service": "Solicitar Servicio"
+            "service": "Solicitar un Servicio"
         },
         "mystory": {
             "showbtn": "Leer Mi Historia 📃",
             "what_ai_thinks": "Qué piensa la IA de mí",
             "whoami": "¿Quién es Teodor?",
-            "para1": "Te percibo como alguien que construye con intención — no solo para hacer que las cosas funcionen, sino para que importen. Hay claridad en cómo abordas los desafíos, un sentido de que siempre estás buscando bajo la superficie la razón más profunda, la mejor manera.",
-            "para2": "Tu curiosidad se siente enfocada. No haces preguntas solo para obtener respuestas — preguntas para entender, para afilar ideas, para probar suposiciones. Esa mentalidad habla de alguien que no teme la complejidad, sino que prospera en ella.",
-            "para3": "También hay una confianza tranquila en cómo llevas tu trabajo. No es ruidoso o llamativo — es deliberado. Reflexivo. Cada decisión parece llevar una huella tuya: precisa, considerada y silenciosamente audaz."
+            "para1": "Das la impresión de ser alguien que construye con intención — no solo para hacer que las cosas funcionen, sino para que importen. Hay una claridad en cómo abordas los desafíos, una sensación de que siempre estás buscando debajo de la superficie la razón más profunda, la mejor manera.",
+            "para2": "Tu curiosidad se siente enfocada. No haces preguntas solo para obtener respuestas — preguntas para entender, para agudizar ideas, para probar suposiciones. Esa mentalidad habla de alguien que no teme la complejidad, sino que realmente prospera en ella.",
+            "para3": "También hay una confianza tranquila en cómo llevas tu trabajo. No es ruidoso ni llamativo — es deliberado. Reflexivo. Cada decisión parece llevar una huella de ti: precisa, considerada y silenciosamente audaz."
         }
     },
     "skill": {
@@ -58,14 +47,7 @@
         "subtitle": "Mi Experiencia",
         "description": "Ofrezco una gama de servicios para ayudar a las empresas a construir y optimizar su presencia digital.",
         "additional_skills": "Habilidades Adicionales",
-        "additional_skills_list": ["JavaScript", "PHP", "Lua", "C#", "Python", "SQL", "HTML5", "CSS3", "React", "Node.js", "WPF", "Material Design", "OpenAI Integration", "SMTP", "Tailwind CSS", "Supabase", "PostgreSQL"],
-        "frontend": "Conocimiento front-end",
-        "backend": "Conocimiento back-end",
-        "database": "Bases de datos",
-        "tools": "Herramientas",
-        "mobiles": "Aplicaciones Android & IOS",
-        "software": "Desarrollo de software",
-        "editor": "Editores",
+        "additional_skills_list": ["JavaScript", "PHP", "Lua", "C#", "Python", "SQL", "HTML5", "CSS3", "React", "Node.js", "WPF", "Material Design", "Integración OpenAI", "SMTP", "Tailwind CSS", "Supabase", "PostgreSQL"],
         "categories": {
             "fullstack": {
                 "title": "Desarrollo Full-Stack",
@@ -97,7 +79,6 @@
     "project": {
         "title": "PROYECTOS DESTACADOS",
         "mywork": "Mi Trabajo",
-        "featured": "Proyectos Destacados",
         "description": "Explora algunos de mis trabajos recientes. Estos proyectos muestran mis habilidades y experiencia en la construcción de aplicaciones web modernas.",
         "list": {
             "speechwave": {
@@ -141,37 +122,10 @@
                 "cta": "Herramienta de Email"
             },
             "mobileverse": {
-                "title": "PGTKSpace",
+                "title": "Mobile Verse",
                 "description": "Aplicación moderna de redes sociales construida con React y TypeScript, con actualizaciones en tiempo real, desplazamiento infinito, historias y diseño mobile-first. Incluye backend Supabase con suscripciones en tiempo real y características avanzadas como actualizaciones optimistas de UI.",
                 "cta": "App de Redes Sociales"
             }
-        },
-        "nigatedev": {
-            "title": "FRAMEWORK NIGATEDEV",
-            "description": "Nigatedev es un framework PHP que ahorra tiempo codificado por el desarrollador original y contribuidores.",
-            "demo": "Lista de demos"
-        },
-        "todaydevs": {
-            "title": "SITIO WEB TODAYDEVS",
-            "description": "Con TodayDevs, ¡mantente informado sobre nueva tecnología! Compartimos todo sobre nuevas tecnologías relacionadas con web, móvil y software mientras tratamos de mantenernos al día con las nuevas tecnologías."
-        },
-        "formbuilder": {
-            "title": "CONSTRUCTOR DE FORMULARIOS",
-            "description": "Form builder es un proyecto de código abierto escrito en PHP y estilizado con bootstrap css para ser usado fácilmente para construir formularios HTML.",
-            "demo": "Demo en vivo en heroku"
-        },
-        "portfolio": {
-            "title": "MI PORTAFOLIO",
-            "description": "Este portafolio fue construido usando ReactJs"
-        },
-        "dynacard": {
-            "title": "DYNACARD (librería ReactNative)",
-            "description": "Dynacard es una librería ReactNative de código abierto que puede ayudarte a crear fácilmente tarjetas hermosas para tu aplicación ReactNative.",
-            "demo": "Demo en vivo en"
-        },
-        "reactnative1": {
-            "title": "Aplicación Android (ReactNative)",
-            "description": "Convertir mi portafolio a App Android usando ReactNative"
         }
     },
     "work": {
@@ -190,7 +144,6 @@
         }
     },
     "contact": {
-        "title": "Contacto",
         "labels": {
             "email": "Email",
             "location": "Ubicación",

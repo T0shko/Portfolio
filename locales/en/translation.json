@@ -1,17 +1,7 @@
 {
-    "title": "Translate to English",
     "profile": {
         "hello": "HELLO",
         "sayHello": "I'M TEODOR VASILEV",
-        "introduce1": "Freelancer 🌠",
-        "introduce2": "Full-Stack Developer 💻",
-        "introduce3": "6+ years of experience 📆",
-        "introduce4": "Open-source 💗",
-        "lang" : {
-            "fr": "French",
-            "en": "English",
-            "es": "Spanish"
-        },
         "about": {
             "title": "About Me",
             "description": "Passionate student developer creating innovative solutions",
@@ -19,7 +9,6 @@
             "expertise": "My expertise spans multiple programming languages including JavaScript, PHP, Lua, C#, and Python. I've developed full-stack SaaS solutions, automation tools, security applications, and desktop software.",
             "experience": "I have a proven track record with real-world projects including marketplace platforms, ERP systems, speech-to-text applications, and vulnerability scanners. I also contributed as a content writer at Puls.bg, writing over 21 medical articles and being recognized as the youngest contributor in their team."
         },
-        "cv": "RESUME",
         "cvlink": "/assets/pdf/Profile.pdf",
         "status": {
             "available": "Available ✨",
@@ -59,13 +48,6 @@
         "description": "I offer a range of services to help businesses build and optimize their digital presence.",
         "additional_skills": "Additional Skills",
         "additional_skills_list": ["JavaScript", "PHP", "Lua", "C#", "Python", "SQL", "HTML5", "CSS3", "React", "Node.js", "WPF", "Material Design", "OpenAI Integration", "SMTP", "Tailwind CSS", "Supabase", "PostgreSQL"],
-        "frontend": "Front-end knowledge",
-        "backend": "Back-end knowledge",
-        "database": "Databases",
-        "tools": "Tools",
-        "mobiles": "Application Android & IOS",
-        "software": "Software development",
-        "editor": "Editors",
         "categories": {
             "fullstack": {
                 "title": "Full-Stack Development",
@@ -97,7 +79,6 @@
     "project": {
         "title": "NOTABLE PROJECTS",
         "mywork": "My Work",
-        "featured": "Featured Projects",
         "description": "Explore some of my recent work. These projects showcase my skills and experience in building modern web applications.",
         "list": {
             "speechwave": {
@@ -141,37 +122,10 @@
                 "cta": "Email Tool"
             },
             "mobileverse": {
-                "title": "PGTKSpace",
+                "title": "Mobile Verse",
                 "description": "Modern social media application built with React and TypeScript, featuring real-time updates, infinite scrolling, stories, and mobile-first design. Includes Supabase backend with real-time subscriptions and advanced features like optimistic UI updates.",
                 "cta": "Social Media App"
             }
-        },
-        "nigatedev": {
-            "title": "NIGATEDEV FRAMEWORK",
-            "description": "Nigatedev is a time-saving PHP framework coded by the original developer and contributors.",
-            "demo": "List of demo"
-        },
-        "todaydevs": {
-            "title": "TODAYDEVS WEBSITE",
-            "description": "With TodayDevs, stay informed about new technology! We share everything about new technologies concerning web, mobile and software while trying to stay up to date with new technologies."
-        },
-        "formbuilder": {
-            "title": "FORM BUILDER",
-            "description": "Form builder is an open-source project written in PHP and styled with bootstrap css to be easily used to build html forms.",
-            "demo": "Live demo on heroku"
-        },
-        "portfolio": {
-            "title": "MY PORTFOLIO",
-            "description": "This portfolio was build using ReactJs"
-        },
-        "dynacard": {
-            "title": "DYNACARD (ReactNative library)",
-            "description": "Dynacard is an open-source ReactNative library that can help you easily create beautiful cards for your ReactNative application.",
-            "demo": "Live demo on"
-        },
-        "reactnative1": {
-            "title": "Android Application (ReactNative)",
-            "description": "Convert my portfolio to Android App using ReactNative"
         }
     },
     "work": {
@@ -190,7 +144,6 @@
         }
     },
     "contact": {
-        "title": "Contact",
         "labels": {
             "email": "Email",
             "location": "Location",

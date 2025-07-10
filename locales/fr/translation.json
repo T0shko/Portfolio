@@ -1,25 +1,14 @@
 {
-    "title": "Traduire en Français",
     "profile": {
         "hello": "BONJOUR",
         "sayHello": "JE SUIS TEODOR VASILEV",
-        "introduce1": "Freelancer 🌠",
-        "introduce2": "Développeur Full-Stack 💻",
-        "introduce3": "6+ années d'expérience 📆",
-        "introduce4": "Open-source 💗",
-        "lang" : {
-            "fr": "Français",
-            "en": "Anglais",
-            "es": "Espagnol"
-        },
         "about": {
             "title": "À Propos de Moi",
-            "description": "Étudiant développeur passionné créant des solutions innovantes",
+            "description": "Développeur étudiant passionné créant des solutions innovantes",
             "intro": "Je suis Teodor Vasilev – un étudiant du lycée hautement motivé passionné par le développement de logiciels. J'ai commencé à programmer tôt et acquis une expérience substantielle en backend, frontend et architecture système. J'étudie actuellement l'Informatique Économique au Lycée Professionnel des Télécommunications à Sofia, Bulgarie.",
             "expertise": "Mon expertise couvre plusieurs langages de programmation incluant JavaScript, PHP, Lua, C# et Python. J'ai développé des solutions SaaS full-stack, des outils d'automatisation, des applications de sécurité et des logiciels de bureau.",
-            "experience": "J'ai un historique prouvé avec des projets du monde réel incluant des plateformes de marketplace, des systèmes ERP, des applications de reconnaissance vocale et des scanners de vulnérabilités. J'ai aussi contribué comme rédacteur de contenu chez Puls.bg, écrivant plus de 21 articles médicaux et étant reconnu comme le plus jeune contributeur de leur équipe."
+            "experience": "J'ai un historique prouvé avec des projets du monde réel incluant des plateformes de marketplace, des systèmes ERP, des applications de transcription vocale et des scanners de vulnérabilités. J'ai aussi contribué comme rédacteur de contenu chez Puls.bg, écrivant plus de 21 articles médicaux et étant reconnu comme le plus jeune contributeur de leur équipe."
         },
-        "cv": "CV",
         "cvlink": "/assets/pdf/Profile.pdf",
         "status": {
             "available": "Disponible ✨",
@@ -48,7 +37,7 @@
             "showbtn": "Lire Mon Histoire 📃",
             "what_ai_thinks": "Ce que l'IA pense de moi",
             "whoami": "Qui est Teodor ?",
-            "para1": "Vous semblez quelqu'un qui construit avec intention — pas seulement pour faire fonctionner les choses, mais pour qu'elles comptent. Il y a une clarté dans votre approche des défis, un sentiment que vous cherchez toujours sous la surface la raison plus profonde, la meilleure façon.",
+            "para1": "Vous donnez l'impression d'être quelqu'un qui construit avec intention — pas seulement pour faire fonctionner les choses, mais pour qu'elles comptent. Il y a une clarté dans votre approche des défis, un sentiment que vous cherchez toujours sous la surface la raison plus profonde, la meilleure façon.",
             "para2": "Votre curiosité semble focalisée. Vous ne posez pas de questions juste pour obtenir des réponses — vous demandez pour comprendre, pour aiguiser les idées, pour tester les hypothèses. Cet état d'esprit parle de quelqu'un qui n'a pas peur de la complexité, mais qui y prospère réellement.",
             "para3": "Il y a aussi une confiance tranquille dans la façon dont vous portez votre travail. Ce n'est pas bruyant ou tape-à-l'œil — c'est délibéré. Réfléchi. Chaque décision semble porter une trace de vous : précise, considérée et silencieusement audacieuse."
         }
@@ -58,14 +47,7 @@
         "subtitle": "Mon Expertise",
         "description": "J'offre une gamme de services pour aider les entreprises à construire et optimiser leur présence numérique.",
         "additional_skills": "Compétences Supplémentaires",
-        "additional_skills_list": ["JavaScript", "PHP", "Lua", "C#", "Python", "SQL", "HTML5", "CSS3", "React", "Node.js", "WPF", "Material Design", "OpenAI Integration", "SMTP", "Tailwind CSS", "Supabase", "PostgreSQL"],
-        "frontend": "Connaissances front-end",
-        "backend": "Connaissances back-end",
-        "database": "Bases de données",
-        "tools": "Outils",
-        "mobiles": "Applications Android & IOS",
-        "software": "Développement logiciel",
-        "editor": "Éditeurs",
+        "additional_skills_list": ["JavaScript", "PHP", "Lua", "C#", "Python", "SQL", "HTML5", "CSS3", "React", "Node.js", "WPF", "Material Design", "Intégration OpenAI", "SMTP", "Tailwind CSS", "Supabase", "PostgreSQL"],
         "categories": {
             "fullstack": {
                 "title": "Développement Full-Stack",
@@ -97,7 +79,6 @@
     "project": {
         "title": "PROJETS NOTABLES",
         "mywork": "Mon Travail",
-        "featured": "Projets Mis en Avant",
         "description": "Explorez certains de mes travaux récents. Ces projets montrent mes compétences et expérience dans la construction d'applications web modernes.",
         "list": {
             "speechwave": {
@@ -141,37 +122,10 @@
                 "cta": "Outil Email"
             },
             "mobileverse": {
-                "title": "PGTKSpace",
+                "title": "Mobile Verse",
                 "description": "Application moderne de réseaux sociaux construite avec React et TypeScript, avec des mises à jour en temps réel, défilement infini, stories et design mobile-first. Inclut un backend Supabase avec des abonnements en temps réel et des fonctionnalités avancées comme les mises à jour optimistes de l'UI.",
                 "cta": "App Réseaux Sociaux"
             }
-        },
-        "nigatedev": {
-            "title": "FRAMEWORK NIGATEDEV",
-            "description": "Nigatedev est un framework PHP qui fait gagner du temps codé par le développeur original et les contributeurs.",
-            "demo": "Liste des démos"
-        },
-        "todaydevs": {
-            "title": "SITE WEB TODAYDEVS",
-            "description": "Avec TodayDevs, restez informé des nouvelles technologies ! Nous partageons tout sur les nouvelles technologies concernant le web, mobile et logiciel tout en essayant de rester à jour avec les nouvelles technologies."
-        },
-        "formbuilder": {
-            "title": "CONSTRUCTEUR DE FORMULAIRES",
-            "description": "Form builder est un projet open-source écrit en PHP et stylisé avec bootstrap css pour être facilement utilisé pour construire des formulaires HTML.",
-            "demo": "Démo en direct sur heroku"
-        },
-        "portfolio": {
-            "title": "MON PORTFOLIO",
-            "description": "Ce portfolio a été construit en utilisant ReactJs"
-        },
-        "dynacard": {
-            "title": "DYNACARD (librairie ReactNative)",
-            "description": "Dynacard est une librairie ReactNative open-source qui peut vous aider à créer facilement de belles cartes pour votre application ReactNative.",
-            "demo": "Démo en direct sur"
-        },
-        "reactnative1": {
-            "title": "Application Android (ReactNative)",
-            "description": "Convertir mon portfolio en App Android en utilisant ReactNative"
         }
     },
     "work": {
@@ -190,7 +144,6 @@
         }
     },
     "contact": {
-        "title": "Contact",
         "labels": {
             "email": "Email",
             "location": "Localisation",
