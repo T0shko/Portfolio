@@ -9,7 +9,7 @@ const Projects: React.FC = () => {
     {
       title: t('project.list.speechwave.title'),
       description: t('project.list.speechwave.description'),
-      image: "/static/media/speechTranscriber.png",
+      image: "/Portfolio/static/media/speechTranscriber.png",
       tech: ["C#", "WPF", "OpenAI Whisper", "Material Design"],
       link: "#",
       cta: t('project.list.speechwave.cta')
@@ -17,7 +17,7 @@ const Projects: React.FC = () => {
     {
       title: t('project.list.schoolerp.title'),
       description: t('project.list.schoolerp.description'),
-      image: "/static/media/erp.png",
+      image: "/Portfolio/static/media/erp.png",
       tech: ["JavaScript", "PHP", "MySQL", "jQuery"],
       link: "#",
       cta: t('project.list.schoolerp.cta')
@@ -25,7 +25,7 @@ const Projects: React.FC = () => {
     {
       title: t('project.list.marketplace.title'),
       description: t('project.list.marketplace.description'),
-      image: "/static/media/marketAPP.png",
+      image: "/Portfolio/static/media/marketAPP.png",
       tech: ["JavaScript", "Android", "PHP", "MySQL"],
       link: "#",
       cta: t('project.list.marketplace.cta')
@@ -33,7 +33,7 @@ const Projects: React.FC = () => {
     {
       title: t('project.list.sqlscanner.title'),
       description: t('project.list.sqlscanner.description'),
-      image: "/static/media/sql_injection.jpg",
+      image: "/Portfolio/static/media/sql_injection.jpg",
       tech: ["Python", "Security", "Web Scanning", "Reports"],
       link: "#",
       cta: t('project.list.sqlscanner.cta')
@@ -41,7 +41,7 @@ const Projects: React.FC = () => {
     {
       title: t('project.list.snaptap.title'),
       description: t('project.list.snaptap.description'),
-      image: "/static/media/snap_tap_hero.avif",
+      image: "/Portfolio/static/media/snap_tap_hero.avif",
       tech: ["C#", "Game Development", "Input Emulation"],
       link: "#",
       cta: t('project.list.snaptap.cta')
@@ -49,7 +49,7 @@ const Projects: React.FC = () => {
     {
       title: t('project.list.studentcouncil.title'),
       description: t('project.list.studentcouncil.description'),
-      image: "/static/media/students_council.png",
+      image: "/Portfolio/static/media/students_council.png",
       tech: ["JavaScript", "PHP", "Security", "Automation"],
       link: "#",
       cta: t('project.list.studentcouncil.cta')
@@ -57,7 +57,7 @@ const Projects: React.FC = () => {
     {
       title: t('project.list.fivemscripts.title'),
       description: t('project.list.fivemscripts.description'),
-      image: "/static/media/FiveM.jpg",
+      image: "/Portfolio/static/media/FiveM.jpg",
       tech: ["Lua", "FiveM", "Game Scripting", "Optimization"],
       link: "#",
       cta: t('project.list.fivemscripts.cta')
@@ -65,7 +65,7 @@ const Projects: React.FC = () => {
     {
       title: t('project.list.emailsender.title'),
       description: t('project.list.emailsender.description'),
-      image: "/static/media/Email_sender.webp",
+      image: "/Portfolio/static/media/Email_sender.webp",
       tech: ["Node.js", "JavaScript", "SMTP", "Automation", "Load Balancing"],
       link: "#",
       cta: t('project.list.emailsender.cta')

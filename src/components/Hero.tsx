@@ -15,7 +15,7 @@ const Hero: React.FC = () => {
           {/* Profile Image */}
           <div className="mb-8">
             <img
-              src="/profile-pic2.png"
+              src="/Portfolio/profile-pic2.png"
               alt="Teodor Vasilev"
               className="w-48 h-48 rounded-full mx-auto border-4 border-white/20 shadow-2xl"
             />

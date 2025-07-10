@@ -95,7 +95,7 @@ const InteractiveBackground: React.FC = () => {
         loop
         className="absolute inset-0 w-full h-full object-cover opacity-20"
       >
-        <source src="/matrixEffect.webm" type="video/webm" />
+        <source src="/Portfolio/matrixEffect.webm" type="video/webm" />
       </video>
 
       {/* Matrix Rain Effect */}
