@@ -1,0 +1,272 @@
+    {
+    "title": "Traducir al Español",
+    "profile": {
+        "hello": "HOLA",
+        "sayHello": "SOY TEODOR VASILEV",
+        "introduce1": "Freelancer 🌠",
+        "introduce2": "Desarrollador Full-Stack 💻",
+        "introduce3": "6+ años de experiencia 📆",
+        "introduce4": "Código abierto 💗",
+        "lang" : {
+            "fr": "Francés",
+            "en": "Inglés",
+            "es": "Español"
+        },
+        "about": {
+            "title": "Sobre Mí",
+            "description": "Estudiante desarrollador apasionado creando soluciones innovadoras",
+            "intro": "Soy Teodor Vasilev, un estudiante de secundaria altamente motivado apasionado por el desarrollo de software. Comencé a programar desde temprana edad y adquirí experiencia sustancial en backend, frontend y arquitectura de sistemas. Actualmente estudio Informática Económica en la Escuela Vocacional de Telecomunicaciones en Sofía, Bulgaria.",
+            "expertise": "Mi experiencia abarca múltiples lenguajes de programación incluyendo JavaScript, PHP, Lua, C# y Python. He desarrollado soluciones SaaS full-stack, herramientas de automatización, aplicaciones de seguridad y software de escritorio.",
+            "experience": "Tengo un historial comprobado con proyectos del mundo real incluyendo plataformas de marketplace, sistemas ERP, aplicaciones de voz a texto y escáneres de vulnerabilidades. También contribuí como escritor de contenido en Puls.bg, escribiendo más de 21 artículos médicos y siendo reconocido como el contribuidor más joven en su equipo."
+        },
+        "cv": "CURRÍCULUM",
+        "cvlink": "/assets/pdf/Profile.pdf",
+        "status": {
+            "available": "Disponible ✨",
+            "student": "Ingeniero de Software Junior | Estudiante | Undécimo grado",
+            "skills": "Desarrollo full-stack | Automatización | Seguridad",
+            "philosophy": "Resolución innovadora de problemas"
+        },
+        "quote": "La complejidad no me asusta. Me afila.",
+        "connect": "Conecta conmigo:",
+        "buttons": {
+            "ai_opinion": "Opinión de IA sobre mí",
+            "download_resume": "Descargar Currículum",
+            "contact_me": "Contáctame",
+            "close": "Cerrar"
+        },
+        "links": {
+            "home": "Inicio",
+            "about": "Sobre Mí",
+            "skill": "Habilidades",
+            "projects": "Proyectos",
+            "work": "Trabajo",
+            "contact": "Contáctame",
+            "service": "Solicitar Servicio"
+        },
+        "mystory": {
+            "showbtn": "Leer Mi Historia 📃",
+            "what_ai_thinks": "Qué piensa la IA de mí",
+            "whoami": "¿Quién es Teodor?",
+            "para1": "Te percibo como alguien que construye con intención — no solo para hacer que las cosas funcionen, sino para que importen. Hay claridad en cómo abordas los desafíos, un sentido de que siempre estás buscando bajo la superficie la razón más profunda, la mejor manera.",
+            "para2": "Tu curiosidad se siente enfocada. No haces preguntas solo para obtener respuestas — preguntas para entender, para afilar ideas, para probar suposiciones. Esa mentalidad habla de alguien que no teme la complejidad, sino que prospera en ella.",
+            "para3": "También hay una confianza tranquila en cómo llevas tu trabajo. No es ruidoso o llamativo — es deliberado. Reflexivo. Cada decisión parece llevar una huella tuya: precisa, considerada y silenciosamente audaz."
+        }
+    },
+    "skill": {
+        "title": "HABILIDADES Y HERRAMIENTAS",
+        "subtitle": "Mi Experiencia",
+        "description": "Ofrezco una gama de servicios para ayudar a las empresas a construir y optimizar su presencia digital.",
+        "additional_skills": "Habilidades Adicionales",
+        "additional_skills_list": ["JavaScript", "PHP", "Lua", "C#", "Python", "SQL", "HTML5", "CSS3", "React", "Node.js", "WPF", "Material Design", "OpenAI Integration", "SMTP", "Tailwind CSS", "Supabase", "PostgreSQL"],
+        "frontend": "Conocimiento front-end",
+        "backend": "Conocimiento back-end",
+        "database": "Bases de datos",
+        "tools": "Herramientas",
+        "mobiles": "Aplicaciones Android & IOS",
+        "software": "Desarrollo de software",
+        "editor": "Editores",
+        "categories": {
+            "fullstack": {
+                "title": "Desarrollo Full-Stack",
+                "description": "Construcción de soluciones SaaS completas incluyendo sistemas ERP y plataformas de marketplace con integración perfecta",
+                "skills": ["JavaScript", "PHP", "React", "Node.js"]
+            },
+            "desktop": {
+                "title": "Aplicaciones de Escritorio",
+                "description": "Creación de aplicaciones de escritorio modernas con funcionalidad poderosa e interfaces Material Design",
+                "skills": ["C#", "WPF", ".NET", "Material Design"]
+            },
+            "security": {
+                "title": "Seguridad y Automatización",
+                "description": "Desarrollo de herramientas de seguridad, escáneres de vulnerabilidades y sistemas de automatización con arquitectura robusta",
+                "skills": ["Python", "SQL", "Seguridad", "Automatización"]
+            },
+            "gamedev": {
+                "title": "Desarrollo de Juegos",
+                "description": "Creación de scripts de juegos y optimizaciones de servidor para plataformas de juegos a gran escala con 10,000+ usuarios",
+                "skills": ["Lua", "FiveM", "Scripting", "Optimización"]
+            },
+            "database": {
+                "title": "Bases de Datos y Sistemas",
+                "description": "Gestión de bases de datos, arquitectura de sistemas y optimización de rendimiento para aplicaciones escalables",
+                "skills": ["MySQL", "SQL", "Diseño de Bases de Datos", "Arquitectura de Sistemas"]
+            }
+        }
+    },
+    "project": {
+        "title": "PROYECTOS DESTACADOS",
+        "mywork": "Mi Trabajo",
+        "featured": "Proyectos Destacados",
+        "description": "Explora algunos de mis trabajos recientes. Estos proyectos muestran mis habilidades y experiencia en la construcción de aplicaciones web modernas.",
+        "list": {
+            "speechwave": {
+                "title": "SpeechWave Transcriber",
+                "description": "Aplicación de escritorio moderna offline de voz a texto usando Whisper de OpenAI para transcripción precisa en búlgaro. Incluye UI Material Design, soporte MP3 y procesamiento local para privacidad.",
+                "cta": "Aplicación de Escritorio"
+            },
+            "schoolerp": {
+                "title": "Sistema ERP Escolar",
+                "description": "Solución ERP SaaS full-stack construida para instituciones educativas. Maneja gestión de estudiantes, horarios, calificaciones y tareas administrativas con integración perfecta.",
+                "cta": "Solución Empresarial"
+            },
+            "marketplace": {
+                "title": "Plataforma Marketplace Android",
+                "description": "Plataforma de marketplace completa para comercio escolar. Maneja tanto la lógica del backend como las interfaces del frontend para rendimiento óptimo y experiencia de usuario.",
+                "cta": "Plataforma Móvil"
+            },
+            "sqlscanner": {
+                "title": "Escáner de Inyección SQL",
+                "description": "Escáner de vulnerabilidades integral que detecta inyección SQL, XSS y CSRF en aplicaciones web. Soporta escaneos autenticados, descubrimiento de endpoints y generación detallada de reportes.",
+                "cta": "Herramienta de Seguridad"
+            },
+            "snaptap": {
+                "title": "Emulador CS2 Snap Tap",
+                "description": "Aplicación C# que emula funcionalidad Snap Tap para jugadores de CS2 sin soporte de hardware. Permite movimientos de contra-strafe precisos como teclados gaming de alta gama. Completamente indetectable por VAC.",
+                "cta": "Herramienta de Gaming"
+            },
+            "studentcouncil": {
+                "title": "Sitio Web Consejo Estudiantil",
+                "description": "Sitio web oficial para el Consejo Estudiantil escolar con automatización de aprobación basada en usuarios, registro de auditoría y almacenamiento de datos encriptado para seguridad y responsabilidad.",
+                "cta": "Sitio Web Oficial"
+            },
+            "fivemscripts": {
+                "title": "Colección Scripts FiveM",
+                "description": "Numerosos scripts Lua que mejoran mecánicas de juego, optimizan rendimiento del servidor y crean funcionalidades personalizadas para experiencias de roleplay en servidores con 10,000+ usuarios únicos.",
+                "cta": "Scripts de Gaming"
+            },
+            "emailsender": {
+                "title": "Enviador de Emails Masivo",
+                "description": "Herramienta avanzada de automatización de correo con lotes adaptativos, optimización de tiempo para evitar límites de velocidad, SMTP optimizado con reintentos, manejo de errores y balanceador de carga multi-cuenta.",
+                "cta": "Herramienta de Email"
+            }
+        },
+        "nigatedev": {
+            "title": "FRAMEWORK NIGATEDEV",
+            "description": "Nigatedev es un framework PHP que ahorra tiempo codificado por el desarrollador original y contribuidores.",
+            "demo": "Lista de demos"
+        },
+        "todaydevs": {
+            "title": "SITIO WEB TODAYDEVS",
+            "description": "Con TodayDevs, ¡mantente informado sobre nueva tecnología! Compartimos todo sobre nuevas tecnologías relacionadas con web, móvil y software mientras tratamos de mantenernos al día con las nuevas tecnologías."
+        },
+        "formbuilder": {
+            "title": "CONSTRUCTOR DE FORMULARIOS",
+            "description": "Form builder es un proyecto de código abierto escrito en PHP y estilizado con bootstrap css para ser usado fácilmente para construir formularios HTML.",
+            "demo": "Demo en vivo en heroku"
+        },
+        "portfolio": {
+            "title": "MI PORTAFOLIO",
+            "description": "Este portafolio fue construido usando ReactJs"
+        },
+        "dynacard": {
+            "title": "DYNACARD (librería ReactNative)",
+            "description": "Dynacard es una librería ReactNative de código abierto que puede ayudarte a crear fácilmente tarjetas hermosas para tu aplicación ReactNative.",
+            "demo": "Demo en vivo en"
+        },
+        "reactnative1": {
+            "title": "Aplicación Android (ReactNative)",
+            "description": "Convertir mi portafolio a App Android usando ReactNative"
+        }
+    },
+    "work": {
+        "title": "MI TRABAJO",
+        "webdev": {
+            "title": "Desarrollo web",
+            "description": "Proporciono servicios web funcionales como desarrollo de sitios web personalizados, desarrollo wordpress, soluciones de comercio electrónico y mucho más."
+        },
+        "seo": {
+            "title": "SEO y seguridad",
+            "description": "Ofrezco excelentes soluciones en seguridad de software y prácticas SEO que aumentarán la cantidad y calidad del tráfico a tu sitio web."
+        },
+        "webdesign": {
+            "title": "Diseño Web",
+            "description": "Diseño sitios web impresionantes e intuitivos que representan tu marca e identidad corporativa a través de un diseño UI/UX excepcional."
+        }
+    },
+    "contact": {
+        "title": "Contacto",
+        "labels": {
+            "email": "Email",
+            "location": "Ubicación",
+            "linkedin": "LinkedIn",
+            "github": "GitHub",
+            "name": "Nombre",
+            "message": "Mensaje"
+        },
+        "placeholders": {
+            "name": "Tu nombre",
+            "email": "Tu email",
+            "message": "Cuéntame sobre tu proyecto..."
+        },
+        "location_value": "Sofía, Bulgaria"
+    },
+    "faq": {
+        "title": "¿Tienes Preguntas?",
+        "subtitle": "Preguntas Frecuentes",
+        "description": "Encuentra respuestas a preguntas comunes sobre mis servicios, proceso y colaboración.",
+        "quote": {
+            "title": "¿Listo para Comenzar tu Proyecto?",
+            "subtitle": "Obtén una Cotización Personalizada para tu Próximo Proyecto Digital",
+            "description": "Ya sea que necesites una solución SaaS, herramienta de automatización, aplicación de seguridad o software de escritorio, te proporcionaré una propuesta detallada adaptada a tus requisitos específicos.",
+            "features": {
+                "proposals": "Propuestas de proyecto detalladas",
+                "response": "Tiempo de respuesta rápido de 48 horas",
+                "pricing": "Precios y cronograma transparentes"
+            },
+            "cta": "Solicitar Cotización Gratuita"
+        },
+        "questions": [
+            {
+                "question": "¿Qué servicios ofreces?",
+                "answer": "Me especializo en desarrollo SaaS full-stack, herramientas de automatización, aplicaciones de seguridad y software de escritorio. Mi experiencia incluye sistemas ERP, plataformas de marketplace, aplicaciones de transcripción de voz, escáneres de vulnerabilidades y herramientas de gaming. También ofrezco servicios de escritura de contenido con experiencia comprobada en artículos médicos."
+            },
+            {
+                "question": "¿Cuál es tu proceso típico de proyecto?",
+                "answer": "Mi proceso involucra: 1) Consulta inicial y análisis de requisitos, 2) Diseño de arquitectura técnica y planificación, 3) Desarrollo con enfoque en seguridad y rendimiento, 4) Pruebas integrales incluyendo auditorías de seguridad, 5) Implementación con documentación, 6) Soporte y mantenimiento continuo."
+            },
+            {
+                "question": "¿Cómo manejas los precios de proyectos?",
+                "answer": "Proporciono precios transparentes basados en proyectos después de entender tus requisitos específicos. Cada proyecto se cotiza individualmente según la complejidad, requisitos de seguridad y alcance. Ofrezco propuestas detalladas con desglose claro de precios y horarios de pago flexibles."
+            },
+            {
+                "question": "¿Cuál es tu cronograma estimado para proyectos?",
+                "answer": "Los cronogramas de proyectos varían según la complejidad: Herramientas de automatización simples (2-4 semanas), Aplicaciones de seguridad (4-8 semanas), Soluciones SaaS full-stack (8-16 semanas), Sistemas ERP complejos (12-20 semanas). Proporciono cronogramas detallados durante la fase de planificación."
+            },
+            {
+                "question": "¿Ofreces mantenimiento y soporte continuo?",
+                "answer": "Sí, proporciono servicios de mantenimiento y soporte continuo incluyendo actualizaciones de seguridad, corrección de errores, optimización de rendimiento y mejoras de funcionalidades. Ofrezco diferentes paquetes de soporte según tus necesidades, con prioridad para aplicaciones críticas de seguridad."
+            },
+            {
+                "question": "¿Puedes trabajar con mi equipo de diseño o desarrollo existente?",
+                "answer": "¡Absolutamente! Tengo experiencia colaborando con equipos y puedo integrarme perfectamente en tu flujo de trabajo existente. Mi experiencia incluye trabajar con administraciones escolares, equipos de contenido y grupos de desarrollo. Me adapto a los procesos y preferencias de comunicación de tu equipo."
+            },
+            {
+                "question": "¿En qué tecnologías y herramientas te especializas?",
+                "answer": "Me especializo en JavaScript, PHP, Lua, C#, Python, React, Node.js, WPF, Material Design, Integración OpenAI y SMTP. Tengo certificaciones en IT Essentials y Desarrollo Web, con experiencia comprobada en construir aplicaciones seguras y escalables."
+            },
+            {
+                "question": "¿Cómo empezamos a trabajar juntos?",
+                "answer": "¡Comenzar es fácil! Contáctame en teodor.d.vasilevred@gmail.com o a través de LinkedIn. Programaremos una consulta inicial para discutir los requisitos de tu proyecto, necesidades de seguridad y cronograma. Desde ahí, proporcionaré una propuesta detallada y podemos avanzar."
+            }
+        ],
+        "stillquestions": {
+            "title": "¿Aún tienes preguntas?",
+            "description": "Si no pudiste encontrar la respuesta a tu pregunta, no dudes en contactarme directamente. Siempre estoy feliz de ayudar y discutir tus necesidades específicas.",
+            "cta1": "Contáctame",
+            "cta2": "Programar una Llamada"
+        }
+    },
+    "terminal": {
+        "title": "matrix.terminal",
+        "command": "$ whoami",
+        "response": "Ingeniero de Software Junior"
+    },
+    "footer": {
+        "copyright": "Copyright © 2024 - 2025 por Teodor Vasilev, Todos los derechos reservados.",
+        "thenext": "¿Qué Sigue?",
+        "letsconnect": "Conectemos",
+        "contactdesk": "Si estás interesado en trabajar en un proyecto o tienes alguna pregunta, por favor déjame un email y me pondré en contacto contigo lo antes posible.",
+        "sayhi": "Saludar"
+    }
+} 
