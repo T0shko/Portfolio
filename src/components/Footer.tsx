@@ -29,7 +29,7 @@ const Footer: React.FC = () => {
                 {t('footer.copyright')}
               </p>
               <p className="text-gray-400 text-xs mt-1">
-                {t('footer.copyright')}
+                {t('footer.quote')}
               </p>
             </div>
             

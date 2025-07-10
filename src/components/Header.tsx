@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { useTranslation } from 'react-i18next'
 import { FaBars, FaTimes } from 'react-icons/fa'
 
@@ -6,6 +6,13 @@ const Header: React.FC = () => {
   const { t, i18n } = useTranslation()
   const [isMenuOpen, setIsMenuOpen] = useState(false)
   const [isLangMenuOpen, setIsLangMenuOpen] = useState(false)
+
+  // Set default language to English on component mount
+  useEffect(() => {
+    if (!localStorage.getItem('i18nextLng')) {
+      i18n.changeLanguage('en')
+    }
+  }, [i18n])
 
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen)
   const toggleLangMenu = () => setIsLangMenuOpen(!isLangMenuOpen)
