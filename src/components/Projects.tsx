@@ -75,7 +75,7 @@ const Projects: React.FC = () => {
       description: t('project.list.mobileverse.description'),
       image: "/Portfolio/static/media/mobile-verse.png",
       tech: ["React", "TypeScript", "Supabase", "Real-time", "Mobile-first"],
-      link: "#",
+      link: "https://pgtkspace.com",
       cta: t('project.list.mobileverse.cta')
     }
   ]
