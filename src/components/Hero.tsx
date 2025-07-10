@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { FaDownload, FaGithub, FaLinkedin } from 'react-icons/fa'
+import { FaExternalLinkAlt, FaGithub, FaLinkedin } from 'react-icons/fa'
 import InteractiveBackground from './InteractiveBackground'
 
 const Hero: React.FC = () => {
@@ -51,11 +51,12 @@ const Hero: React.FC = () => {
             </button>
             
             <a
-              href={t('profile.cvlink')}
-              download
+              href="/Portfolio/static/media/Profile.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="btn-outline inline-flex items-center gap-2"
             >
-              <FaDownload />
+              <FaExternalLinkAlt />
               {t('profile.buttons.download_resume')}
             </a>
             

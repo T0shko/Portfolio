@@ -31,7 +31,7 @@
         "connect": "Connect with me:",
         "buttons": {
             "ai_opinion": "AI opinion on me",
-            "download_resume": "Download Resume",
+            "download_resume": "View Resume",
             "contact_me": "Contact Me",
             "close": "Close"
         },
