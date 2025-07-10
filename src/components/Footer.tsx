@@ -1,6 +1,6 @@
 import React from 'react'
 import { useTranslation } from 'react-i18next'
-import { FaGithub, FaLinkedin, FaYoutube, FaTwitter } from 'react-icons/fa'
+import { FaGithub, FaLinkedin } from 'react-icons/fa'
 
 const Footer: React.FC = () => {
   const { t } = useTranslation()

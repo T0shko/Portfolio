@@ -1,35 +1,5 @@
 import React from 'react'
 import { useTranslation } from 'react-i18next'
-import { 
-  FaReact, 
-  FaJs, 
-  FaHtml5, 
-  FaCss3Alt, 
-  FaPhp, 
-  FaNodeJs, 
-  FaGitAlt, 
-  FaDocker,
-  FaFigma,
-  FaWordpress,
-  FaMobile
-} from 'react-icons/fa'
-import { 
-  SiTypescript, 
-  SiNextdotjs, 
-  SiTailwindcss, 
-  SiMysql, 
-  SiMongodb,
-  SiExpress,
-  SiFramer,
-  SiWebpack,
-  SiLighthouse,
-  SiPwa,
-  SiExpo,
-  SiAndroid,
-  SiApple,
-  SiRedux,
-  SiFirebase
-} from 'react-icons/si'
 
 const Skills: React.FC = () => {
   const { t } = useTranslation()

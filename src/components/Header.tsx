@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { FaBars, FaTimes, FaGlobe } from 'react-icons/fa'
+import { FaBars, FaTimes } from 'react-icons/fa'
 
 const Header: React.FC = () => {
   const { t, i18n } = useTranslation()

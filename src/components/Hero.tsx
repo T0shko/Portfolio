@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { FaDownload, FaGithub, FaLinkedin, FaYoutube, FaTwitter, FaExternalLinkAlt } from 'react-icons/fa'
+import { FaDownload, FaGithub, FaLinkedin } from 'react-icons/fa'
 import InteractiveBackground from './InteractiveBackground'
 
 const Hero: React.FC = () => {
