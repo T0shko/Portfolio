@@ -53,7 +53,7 @@ Portfolio/
 ## 🎯 Key Projects Showcased
 
 1. **SpeechWave Transcriber** - C# desktop application with OpenAI Whisper
-2. **School ERP System** - Full-stack SaaS solution for educational institutions
+2. **ERP System** - Full-stack SaaS solution for educational institutions
 3. **Marketplace Android Platform** - Complete marketplace platform
 4. **SQL Injection Scanner** - Security vulnerability scanner in Python
 5. **CS2 Snap Tap Emulator** - C# gaming tool for CS2
